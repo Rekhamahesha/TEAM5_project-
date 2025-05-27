@@ -1,6 +1,14 @@
              Hi👋,I'm Rekha M                                   
                                                                                          
-                                                                                         EDU-TRACKER
+                               EDU-TRACKER                                                  
+
+                                                                                       
+
+ ![start ](https://github.com/user-attachments/assets/a8721186-de3a-4787-9ac1-93105e879732)
+
+
+
+                                                                               
 
 # Edu Tracker – Academic Management Web Platform
 
@@ -89,6 +97,11 @@ continue.html	    Extended content (masters course)
 
 pro.html	        Starting promotional or landing page
 
+
+![register page](https://github.com/user-attachments/assets/a6095193-4bc5-4df7-93ae-5e247a430cb7)
+
+
+
 🗺 Roadmap
 
 [x] Create core HTML pages
@@ -139,6 +152,11 @@ Email: rekhamahesha@example.com (replace with actual contact)
 project Link: https://github.com/Rekhamahesha/edu-tracker 
 
 
+
+![contact page](https://github.com/user-attachments/assets/d09c7025-0e68-4663-8bf7-db55714f6ae4)
+
+
+
 🙏 Acknowledgements
 
 Tailwind CSS
@@ -150,6 +168,8 @@ HTML Boilerplate
 VS Code & Git
 
 All contributors and educators involved
+
+
 
 
                                                                                                                 
