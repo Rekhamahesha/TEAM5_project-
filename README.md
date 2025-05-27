@@ -1,6 +1,6 @@
              Hi👋,I'm Rekha M                                   
                                                                                          
-                               EDU-TRACKER                                                  
+                              EDU-TRACKER                                                  
 
                                                                                        
 
